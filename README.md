@@ -17,4 +17,4 @@ Se utilizó la metodología BEM para la organización de clases CSS.
 - components: tarjetas de lugares climáticos
 
 ## Repositorio
-https://github.com/jemimavarbel-oss/weather-app-m3/edit/main/README.md
+https://github.com/jemimavarbel-oss/weather-app-m3/blob/main/README.md
